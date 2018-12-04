@@ -57,9 +57,10 @@
     "node": ">=8.9"
   },
   "scripts": {
-    "test": "grunt --verbose",
-    "postinstall": "bundle install && bower install",
-    "build": "grunt build",
-    "zip": "cd build; zip -r ../ghostium.zip ./*"
+    "test": "npx grunt --verbose",
+    "postinstall": "npx bower install",
+    "build": "npx grunt build",
+    "zip": "cd build; zip -r ../ghostium.zip ./*",
+    "publish": "npm run build && npm run zip"
   }
 }
