@@ -1,6 +1,6 @@
 # Ghostium-light
 
-*This is a fork repository of [Ghostium](https://github.com/oswaldoacauan/ghostium).*
+*This is a fork repository from [Ghostium](https://github.com/oswaldoacauan/ghostium) to remould(接锅).*
 
 ![Ghostium](http://i.imgur.com/m5VcTBl.png)
 
