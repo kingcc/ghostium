@@ -1,15 +1,21 @@
 {
-  "name": "Ghostium",
-  "version": "2.3.2",
+  "name": "Ghostium-light",
+  "version": "1.0.0",
   "description": "A Ghost theme focused on content based on Medium design/ux",
   "url": "http://ghostium.oswaldoacauan.com/",
   "copyright": "2013",
   "license": "MIT",
-  "author": {
-    "name": "Oswaldo Acauan",
-    "email": "hello@oswaldoacauan.com",
-    "url": "http://oswaldoacauan.com"
-  },
+  "authors": [{
+      "name": "Oswaldo Acauan",
+      "email": "hello@oswaldoacauan.com",
+      "url": "http://oswaldoacauan.com"
+    },
+    {
+      "name": "Kin",
+      "email": "eof@null.net",
+      "url": "https://away.from.center"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:oswaldoacauan/ghostium.git"

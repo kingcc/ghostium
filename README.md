@@ -1,4 +1,6 @@
-# Ghostium
+# Ghostium-light
+
+*This is a fork repository of [Ghostium](https://github.com/oswaldoacauan/ghostium).*
 
 ![Ghostium](http://i.imgur.com/m5VcTBl.png)
 
